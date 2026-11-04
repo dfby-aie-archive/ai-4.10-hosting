@@ -80,7 +80,7 @@ Started DevopsDemoApplication in 2.9 seconds
 ==> Your service is live 🎉
 ```
 
-It usually takes 1-3 minutes. The **Events** page lists each deploy and whether it succeeded.
+It usually takes 1-3 minutes. The **Events** page (called **Deploys** in some versions of the dashboard) lists each deploy and whether it succeeded.
 
 ### Step A4: Test Your Application
 
